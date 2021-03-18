@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Discord.js Bot
+- 🔭 I’m currently working on ... Portofolio Website in React.js
 - 🌱 I’m currently learning ... C++ | JavaScript
 - 👯 I’m looking to collaborate on ... Nothing
 - 🤔 I’m looking for help with ... C++
