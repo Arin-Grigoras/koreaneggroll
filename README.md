@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... Portofolio Website in React.js
 - 🌱 I’m currently learning ... C++ | JavaScript
-- 👯 I’m looking to collaborate on ... Nothing
+- 👯 I’m looking to collaborate on ... https://github.com/koreaneggroll/libavoidrepetition-c
 - 🤔 I’m looking for help with ... C++
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... aringrigoras@gmail.com
