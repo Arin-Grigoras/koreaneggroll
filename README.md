@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Nothing
 - 🤔 I’m looking for help with ... C++
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... http://arindesign.ml/website/html/
+- 📫 How to reach me: ... aringrigoras@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am not in HighSchool yet
 -->
