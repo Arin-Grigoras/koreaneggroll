@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Portofolio Website in React.js
+- 🔭 I’m currently working on ... CnPython Lib.
 - 🌱 I’m currently learning ... C++ | JavaScript
 - 👯 I’m looking to collaborate on ... https://github.com/koreaneggroll/libavoidrepetition-c
 - 🤔 I’m looking for help with ... C++
