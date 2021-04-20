@@ -9,7 +9,7 @@ I am using my knowledge to support myself and help others.
 ### C*
   A programming language trying to be the superset of C++.
 
- ### TeamLearn gave up
+ ### TeamLearn 
    TeamLearn is a "company"/website that wants to help people from all around the world learn how to code no matter where you're from, what's your race, religion or any of that kind. All that matters is that if you want to learn coding, we got you covered. https://github.com/teamlearncoding/teamlearn
 
  ### CnPython
