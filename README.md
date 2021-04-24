@@ -6,8 +6,11 @@ I am using my knowledge to support myself and help others.
 
 # Projects i'm working on
 
+### Mellon-Text-Editor
+  A text editor for the linux terminal written in C++.
+
 ### C+-
-  A programming language trying to be as close to C++ as possible. https://github.com/koreaneggroll/C-Plus-Minus
+  A programming language trying to be as close to C++ as possible. https://github.com/koreaneggroll/C-Plus-Minus (Put on pause until i learn more about compilers)
 
  ### TeamLearn 
    TeamLearn is a "company"/website that wants to help people from all around the world learn how to code no matter where you're from, what's your race, religion or any of that kind. All that matters is that if you want to learn coding, we got you covered. https://github.com/teamlearncoding/teamlearn
