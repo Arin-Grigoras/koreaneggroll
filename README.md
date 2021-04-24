@@ -7,7 +7,7 @@ I am using my knowledge to support myself and help others.
 # Projects i'm working on
 
 ### Mellon-Text-Editor
-  A text editor for the linux terminal written in C++.
+  A text editor for the linux terminal written in C++. https://github.com/koreaneggroll/mello-text-editor
 
 ### C+-
   A programming language trying to be as close to C++ as possible. https://github.com/koreaneggroll/C-Plus-Minus (Put on pause until i learn more about compilers)
