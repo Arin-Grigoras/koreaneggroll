@@ -7,7 +7,7 @@ I am using my knowledge to support myself and help others.
 # Projects i'm working on
 
 ### KeyStance text editor
-  An open source text editor in C. https://github.com/keystance/keystance
+  A better kilo (the text editor). https://github.com/keystance/keystance
 
 ### C+-
   A programming language trying to be as close to C++ as possible. https://github.com/koreaneggroll/C-Plus-Minus (Put on pause until i learn more about compilers)
