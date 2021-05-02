@@ -7,7 +7,7 @@ I am using my knowledge to support myself and help others.
 # Projects i'm working on
 
 ### MineCraft-Clone
-  A minecraft clone written in C++ OpenGL. https://github.com/koreaneggroll/Minecraft-Clone
+  A minecraft clone written in C++ SDL2. https://github.com/koreaneggroll/Minecraft-Clone
 
 ### KeyStance text editor
   A better kilo (the text editor). https://github.com/keystance/keystance
