@@ -5,6 +5,3 @@
 
 Currently working on private repositories
 
-Learning JavaScript, ReactJS and C/C++ at the moment.
-
-Eager to learn new things.
